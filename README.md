@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... :sparkles: :sparkles: :sparkles: :sparkles: :memo: :memo: :memo: :memo: :memo: :rocket: :rocket: :rocket: :rocket: :rocket:
 - 🌱 I’m currently learning ... :lipstick: :lipstick: :lipstick: :lipstick: :lipstick: :lipstick: :lipstick: :lipstick: :lipstick: :lipstick: :lipstick:
 - 💞️ I’m looking to collaborate on ... :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :white_check_mark: :lock: :lock: :lock: :lock:
-- 📫 How to reach me ...:closed_lock_with_key: :closed_lock_with_key: :closed_lock_with_key: :closed_lock_with_key: :construction_worker: :construction_worker: :construction_worker: :construction_worker:
+- 📫 How to reach me ...
  😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
