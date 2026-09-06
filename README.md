@@ -28,9 +28,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ZhaoXingPeng/voicelife">voicelife</a></h3>
-      <p>语音与生活场景的产品探索，聚焦自然、低摩擦的人机交互。</p>
-      <sub>Voice · Product exploration</sub>
+      <h3><a href="https://github.com/1024XEngineer/VoiceLife">VoiceLife</a></h3>
+      <p>语音优先、IM 辅助的日程提醒设备端系统，面向 ESP32-S3 构建。</p>
+      <sub>C++20 · ESP32-S3 · Voice · IM</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ZhaoXingPeng/BabelFLUX">BabelFLUX</a></h3>
