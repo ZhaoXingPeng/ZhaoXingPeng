@@ -23,7 +23,7 @@
 
 ## Selected projects
 
-> 这些项目按当前投入方向与开发活跃度整理；首三项是主页置顶优先级。
+> 这些项目按当前投入方向与开发活跃度整理；顺序对应主页置顶优先级。
 
 <table>
   <tr>
@@ -48,18 +48,6 @@
       <h3><a href="https://github.com/ZhaoXingPeng/ai">ai</a></h3>
       <p>AI 学习、实验与实践代码集合，记录从原型到验证的过程。</p>
       <sub>Python · Machine learning</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ZhaoXingPeng/alg">alg</a></h3>
-      <p>算法与数据结构练习，持续沉淀可复用的解题思路。</p>
-      <sub>Java · Algorithms</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ZhaoXingPeng/FrontGenix">FrontGenix</a></h3>
-      <p>面向前端项目的组件与页面生成实验，强调可组合与可落地。</p>
-      <sub>JavaScript · Frontend tooling</sub>
     </td>
   </tr>
 </table>
