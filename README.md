@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Abstract data network and developer workspace" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Young Goku in a manga-style data network" width="100%" />
 </div>
 
 <h1 align="center">ZhaoXingPeng</h1>
