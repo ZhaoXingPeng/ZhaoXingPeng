@@ -1,0 +1,61 @@
+name: 更新主页近期动态
+
+on:
+  schedule:
+    - cron: "18 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    if: github.repository == 'ZhaoXingPeng/ZhaoXingPeng'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: ZhaoXingPeng
+          MAX_LINES: 6
+          FILTER_EVENTS: IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
+          TARGET_FILE: .github/profile-activity-source.md
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: "📝 docs(profile): 更新主页动态源"
+          EMPTY_COMMIT_MSG: "📝 docs(profile): 保持近期动态工作流活跃"
+      - name: 同步中文活动摘要
+        shell: bash
+        run: |
+          {
+            sed -n '1,/<!--START_SECTION:activity-->/p' README.md
+            sed -n '/<!--START_SECTION:activity-->/,/<!--END_SECTION:activity-->/p' .github/profile-activity-source.md \
+              | sed '/<!--START_SECTION:activity-->/d; /<!--END_SECTION:activity-->/d' \
+              | sed \
+                  -e 's/Commented on /评论了 /g' \
+                  -e 's/Opened issue /创建了议题 /g' \
+                  -e 's/Closed issue /关闭了议题 /g' \
+                  -e 's/Reopened issue /重新打开了议题 /g' \
+                  -e 's/Opened PR /创建了 PR /g' \
+                  -e 's/Closed PR /关闭了 PR /g' \
+                  -e 's/Merged PR /合并了 PR /g' \
+                  -e 's/Published release /发布了版本 /g' \
+                  -e 's/Created release /创建了发布版 /g' \
+                  -e 's/ in /，仓库：/g'
+            sed -n '/<!--END_SECTION:activity-->/,$p' README.md
+          } > README.md.next
+          mv README.md.next README.md
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📝 docs(profile): 同步中文近期动态"
+          git push
