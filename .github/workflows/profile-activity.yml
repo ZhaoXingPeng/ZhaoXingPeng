@@ -39,14 +39,34 @@ jobs:
               | sed '/<!--START_SECTION:activity-->/d; /<!--END_SECTION:activity-->/d' \
               | sed \
                   -e 's/Commented on /评论了 /g' \
+                  -e 's/Labeled issue /标记了议题 /g' \
+                  -e 's/Unlabeled issue /移除了议题标签 /g' \
+                  -e 's/Edited issue /编辑了议题 /g' \
+                  -e 's/Deleted issue /删除了议题 /g' \
+                  -e 's/Transferred issue /转移了议题 /g' \
+                  -e 's/Pinned issue /置顶了议题 /g' \
+                  -e 's/Unpinned issue /取消置顶议题 /g' \
                   -e 's/Opened issue /创建了议题 /g' \
                   -e 's/Closed issue /关闭了议题 /g' \
                   -e 's/Reopened issue /重新打开了议题 /g' \
+                  -e 's/Labeled PR /标记了 PR /g' \
+                  -e 's/Unlabeled PR /移除了 PR 标签 /g' \
+                  -e 's/Edited PR /编辑了 PR /g' \
+                  -e 's/Deleted PR /删除了 PR /g' \
                   -e 's/Opened PR /创建了 PR /g' \
                   -e 's/Closed PR /关闭了 PR /g' \
                   -e 's/Merged PR /合并了 PR /g' \
+                  -e 's/Reopened PR /重新打开了 PR /g' \
+                  -e 's/Synchronize PR /同步了 PR /g' \
+                  -e 's/Ready_for_review PR /标记 PR 为待审查 /g' \
+                  -e 's/Review_requested PR /请求审查 PR /g' \
+                  -e 's/Converted_to_draft PR /将 PR 转为草稿 /g' \
                   -e 's/Published release /发布了版本 /g' \
                   -e 's/Created release /创建了发布版 /g' \
+                  -e 's/Updated release /更新了发布版 /g' \
+                  -e 's/Deleted release /删除了发布版 /g' \
+                  -e 's/Prereleased release /发布了预发布版本 /g' \
+                  -e 's/Unpublished release /撤回了发布版 /g' \
                   -e 's/ in /，仓库：/g'
             sed -n '/<!--END_SECTION:activity-->/,$p' README.md
           } > README.md.next
