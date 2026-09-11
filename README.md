@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Young Goku in a manga-style data network" width="100%" />
+  <img src="./assets/profile-banner.png" alt="漫画风数据网络人物横幅" width="100%" />
 </div>
 
 <h1 align="center">ZhaoXingPeng</h1>
 
 <p align="center">
-  <strong>Building practical AI tools, developer workflows, and data systems.</strong><br />
-  将想法做成可运行、可维护、可协作的产品。
+  <strong>构建可运行、可维护、可协作的 AI 工具、开发者工作流与数据系统。</strong><br />
+  将想法推进为可验证、可交付的产品。
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZhaoXingPeng?tab=repositories"><img src="https://img.shields.io/badge/Repositories-35-1f6feb?style=flat-square" alt="Repositories" /></a>
-  <a href="https://github.com/ZhaoXingPeng?tab=followers"><img src="https://img.shields.io/github/followers/ZhaoXingPeng?style=flat-square&label=Followers&color=0a7f5a" alt="Followers" /></a>
-  <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/commits/main"><img src="https://img.shields.io/github/last-commit/ZhaoXingPeng/BabelFLUX-java?style=flat-square&label=Latest%20shipping&color=f59e0b" alt="Latest shipping" /></a>
+  <a href="https://github.com/ZhaoXingPeng?tab=repositories"><img src="https://img.shields.io/badge/%E4%BB%93%E5%BA%93-35-1f6feb?style=flat-square" alt="仓库数量" /></a>
+  <a href="https://github.com/ZhaoXingPeng?tab=followers"><img src="https://img.shields.io/github/followers/ZhaoXingPeng?style=flat-square&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=0a7f5a" alt="关注者" /></a>
+  <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/commits/main"><img src="https://img.shields.io/github/last-commit/ZhaoXingPeng/BabelFLUX-java?style=flat-square&label=%E6%9C%80%E8%BF%91%E4%BA%A4%E4%BB%98&color=f59e0b" alt="最近交付" /></a>
 </p>
 
-## What I work on
+## 正在投入的方向
 
-- **AI-assisted engineering** — agent workflows, code generation, model experiments, and evaluation.
-- **Developer tools** — database schema understanding, frontend scaffolding, and repeatable project automation.
-- **Research to product** — turning computer-vision and data-analysis experiments into usable software.
+- **AI 辅助工程**：Agent 工作流、代码生成、模型实验与评测。
+- **开发者工具**：数据库结构理解、前端脚手架与可重复的项目自动化。
+- **从研究到产品**：将计算机视觉与数据分析实验沉淀为可使用的软件。
 
-## Selected projects
+## 精选项目
 
 > 这些项目按当前投入方向与开发活跃度整理；顺序对应主页置顶优先级。
 
@@ -33,14 +33,14 @@
       <p>
         <a href="https://github.com/ZhaoXingPeng/VoiceLife/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/VoiceLife/actions/workflows/ci.yml/badge.svg?branch=main" alt="VoiceLife CI" /></a>
       </p>
-      <sub>C++20 · ESP-IDF · ESP32-S3 · Voice · IM · MCP</sub>
+      <sub>C++20 · ESP-IDF · ESP32-S3 · 语音 · IM · MCP</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ZhaoXingPeng/BabelFLUX-java">BabelFlux Java / 巴别流同传</a></h3>
       <p>面向会议、课程与技术分享的实时语音同传系统：Vue/Tauri 工作台、Java 21 + Spring Boot 后端，接入百炼实时翻译与在线/会后纠偏，支持报告导出及可观测性。</p>
       <p>
-        <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/releases"><img src="https://img.shields.io/github/v/release/ZhaoXingPeng/BabelFLUX-java?display_name=tag&sort=semver&style=flat-square&label=Release" alt="BabelFlux latest release" /></a>
-        <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml/badge.svg?branch=main" alt="BabelFlux quality gates" /></a>
+        <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/releases"><img src="https://img.shields.io/github/v/release/ZhaoXingPeng/BabelFLUX-java?display_name=tag&sort=semver&style=flat-square&label=%E5%8F%91%E5%B8%83%E7%89%88" alt="BabelFlux 最新发布版" /></a>
+        <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml/badge.svg?branch=main&label=%E8%B4%A8%E9%87%8F%E9%97%A8%E7%A6%81" alt="BabelFlux 质量门禁" /></a>
       </p>
       <sub>Java 21 · Spring Boot · MyBatis · Vue 3 · Tauri · DashScope</sub>
     </td>
@@ -52,7 +52,7 @@
       <p>
         <a href="https://github.com/ZhaoXingPeng/DBJavaGenix/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/DBJavaGenix/actions/workflows/ci.yml/badge.svg?branch=main" alt="DBJavaGenix CI" /></a>
       </p>
-      <sub>Python · MCP · MySQL · Java code generation</sub>
+      <sub>Python · MCP · MySQL · Java 代码生成</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ZhaoXingPeng/DevBrief-Agent">DevBrief-Agent</a></h3>
@@ -60,12 +60,17 @@
       <p>
         <a href="https://github.com/ZhaoXingPeng/DevBrief-Agent/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/DevBrief-Agent/actions/workflows/ci.yml/badge.svg?branch=main" alt="DevBrief-Agent quality" /></a>
       </p>
-      <sub>Python · Agent Harness · Evidence retrieval · Human approval</sub>
+      <sub>Python · Agent Harness · 证据检索 · 人工审批</sub>
     </td>
   </tr>
 </table>
 
-## Current focus
+## 近期动态
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 当前关注
 
 ```text
 DBJavaGenix     让数据库到代码的链路更可靠、更可观察
@@ -73,7 +78,13 @@ BabelFlux Java  让跨语言沟通更自然、更及时
 DevBrief-Agent  让研发决策沉淀为可审计、可执行的任务
 ```
 
-## Tech stack
+## 工程指标
+
+<p align="center">
+  <img src="./assets/generated/github-metrics.svg" alt="GitHub 工程指标" width="100%" />
+</p>
+
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd343" alt="Python" />
@@ -84,13 +95,23 @@ DevBrief-Agent  让研发决策沉淀为可审计、可执行的任务
   <img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat-square&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" />
 </p>
 
-## Connect
+## 贡献记录
 
-如果你正在做 AI 工具、开发者效率或数据系统，欢迎通过 GitHub issue / discussion 联系我，一起把想法推进到可运行的版本。
-
-<p>
-  <a href="https://github.com/ZhaoXingPeng">GitHub</a> ·
-  <a href="https://github.com/ZhaoXingPeng?tab=repositories">All repositories</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/contribution-grid-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/contribution-grid.svg" />
+    <img src="./assets/generated/contribution-grid.svg" alt="GitHub 贡献记录动态展示" width="100%" />
+  </picture>
 </p>
 
-<p align="center"><sub>Build small, learn fast, ship with care.</sub></p>
+## 联系与协作
+
+如果你正在做 AI 工具、开发者效率或数据系统，欢迎通过 GitHub 的议题或讨论区联系我，一起把想法推进到可运行的版本。
+
+<p>
+  <a href="https://github.com/ZhaoXingPeng">GitHub 主页</a> ·
+  <a href="https://github.com/ZhaoXingPeng?tab=repositories">全部仓库</a>
+</p>
+
+<p align="center"><sub>持续构建，快速验证，认真交付。</sub></p>

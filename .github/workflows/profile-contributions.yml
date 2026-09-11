@@ -1,0 +1,39 @@
+name: 生成主页贡献图
+
+on:
+  schedule:
+    - cron: "5 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate-contribution-grid:
+    if: github.repository == 'ZhaoXingPeng/ZhaoXingPeng'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: 创建生成目录
+        run: mkdir -p assets/generated
+      - name: 生成贡献图
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ZhaoXingPeng
+          outputs: |
+            assets/generated/contribution-grid.svg?palette=github-light
+            assets/generated/contribution-grid-dark.svg?palette=github-dark
+      - name: 提交生成结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/contribution-grid.svg assets/generated/contribution-grid-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "📝 docs(profile): 更新贡献图"
+          git push
