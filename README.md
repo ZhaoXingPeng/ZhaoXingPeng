@@ -68,12 +68,12 @@
 ## 近期动态
 
 <!--START_SECTION:activity-->
-1. 🎉 合并了 PR [#3](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/3)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
-2. ℹ️ Labeled issue [#64](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/64)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-3. ❗ 创建了议题 [#64](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/64)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-4. 💪 创建了 PR [#3](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/3)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
-5. 🗣 评论了 [#143](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/143#issuecomment-5628453912)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-6. 🗣 评论了 [#2](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/2#issuecomment-5628453847)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
+1. 💪 创建了 PR [#65](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/65)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+2. 🗣 评论了 [#56](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/56#issuecomment-5628683617)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+3. 🗣 评论了 [#64](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/64#issuecomment-5628678707)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+4. 🗣 评论了 [#57](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/57#issuecomment-5628678700)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+5. 🔒 关闭了议题 [#57](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/57)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+6. 🔒 关闭了议题 [#64](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/64)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
 <!--END_SECTION:activity-->
 
 ## 当前关注
