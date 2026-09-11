@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/ZhaoXingPeng?tab=repositories"><img src="https://img.shields.io/badge/Repositories-35-1f6feb?style=flat-square" alt="Repositories" /></a>
   <a href="https://github.com/ZhaoXingPeng?tab=followers"><img src="https://img.shields.io/github/followers/ZhaoXingPeng?style=flat-square&label=Followers&color=0a7f5a" alt="Followers" /></a>
-  <a href="https://github.com/ZhaoXingPeng"><img src="https://img.shields.io/github/last-commit/ZhaoXingPeng/DBJavaGenix?style=flat-square&label=Latest%20shipping&color=f59e0b" alt="Latest shipping" /></a>
+  <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/commits/main"><img src="https://img.shields.io/github/last-commit/ZhaoXingPeng/BabelFLUX-java?style=flat-square&label=Latest%20shipping&color=f59e0b" alt="Latest shipping" /></a>
 </p>
 
 ## What I work on
@@ -33,9 +33,13 @@
       <sub>C++20 · ESP32-S3 · Voice · IM</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ZhaoXingPeng/BabelFLUX">BabelFLUX</a></h3>
-      <p>同声传译工具，覆盖 Web 端与插件客户端。</p>
-      <sub>JavaScript · Web · Browser extension</sub>
+      <h3><a href="https://github.com/ZhaoXingPeng/BabelFLUX-java">BabelFlux Java / 巴别流同传</a></h3>
+      <p>面向会议、课程与技术分享的实时语音同传系统，提供双语字幕、在线与会后纠偏、报告导出和 Tauri 桌面悬浮窗。</p>
+      <p>
+        <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/releases"><img src="https://img.shields.io/github/v/release/ZhaoXingPeng/BabelFLUX-java?display_name=tag&sort=semver&style=flat-square&label=Release" alt="BabelFlux latest release" /></a>
+        <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml/badge.svg?branch=main" alt="BabelFlux quality gates" /></a>
+      </p>
+      <sub>Java 21 · Spring Boot · MyBatis · Vue 3 · Tauri · DashScope</sub>
     </td>
   </tr>
   <tr>
@@ -55,9 +59,9 @@
 ## Current focus
 
 ```text
-DBJavaGenix   让数据库到代码的链路更可靠、更可观察
-BabelFLUX     让跨语言沟通更自然、更及时
-AI / CV       把实验结果整理成可复现、可共享的工具
+DBJavaGenix    让数据库到代码的链路更可靠、更可观察
+BabelFlux Java 让跨语言沟通更自然、更及时
+AI / CV        把实验结果整理成可复现、可共享的工具
 ```
 
 ## Tech stack
