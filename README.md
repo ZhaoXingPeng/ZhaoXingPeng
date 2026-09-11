@@ -28,13 +28,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/1024XEngineer/VoiceLife">VoiceLife</a></h3>
-      <p>语音优先、IM 辅助的日程提醒设备端系统，面向 ESP32-S3 构建。</p>
-      <sub>C++20 · ESP32-S3 · Voice · IM</sub>
+      <h3><a href="https://github.com/ZhaoXingPeng/VoiceLife">VoiceLife</a></h3>
+      <p>面向 ESP32-S3 设备端的语音优先日程提醒系统：以日程、定时任务和本地持久化为核心，通过语音、IM、MCP 与硬件适配器接入外部能力，支持可配置运行时与设备端验证。</p>
+      <p>
+        <a href="https://github.com/ZhaoXingPeng/VoiceLife/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/VoiceLife/actions/workflows/ci.yml/badge.svg?branch=main" alt="VoiceLife CI" /></a>
+      </p>
+      <sub>C++20 · ESP-IDF · ESP32-S3 · Voice · IM · MCP</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ZhaoXingPeng/BabelFLUX-java">BabelFlux Java / 巴别流同传</a></h3>
-      <p>面向会议、课程与技术分享的实时语音同传系统，提供双语字幕、在线与会后纠偏、报告导出和 Tauri 桌面悬浮窗。</p>
+      <p>面向会议、课程与技术分享的实时语音同传系统：Vue/Tauri 工作台、Java 21 + Spring Boot 后端，接入百炼实时翻译与在线/会后纠偏，支持报告导出及可观测性。</p>
       <p>
         <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/releases"><img src="https://img.shields.io/github/v/release/ZhaoXingPeng/BabelFLUX-java?display_name=tag&sort=semver&style=flat-square&label=Release" alt="BabelFlux latest release" /></a>
         <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml/badge.svg?branch=main" alt="BabelFlux quality gates" /></a>
@@ -45,13 +48,19 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ZhaoXingPeng/DBJavaGenix">DBJavaGenix</a></h3>
-      <p>基于 MCP 的智能数据库代码生成工具，支持数据库理解、规范校验与 Java 产物生成。</p>
-      <sub>Python · MCP · Code generation</sub>
+      <p>面向 Java 后端开发的智能数据库代码生成工具：基于 MCP 解析 MySQL 等数据库结构与关系，生成 Entity、DAO、Service、Controller 等分层代码，并支持模板扩展、规范校验与依赖管理。</p>
+      <p>
+        <a href="https://github.com/ZhaoXingPeng/DBJavaGenix/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/DBJavaGenix/actions/workflows/ci.yml/badge.svg?branch=main" alt="DBJavaGenix CI" /></a>
+      </p>
+      <sub>Python · MCP · MySQL · Java code generation</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ZhaoXingPeng/ai">ai</a></h3>
-      <p>AI 学习、实验与实践代码集合，记录从原型到验证的过程。</p>
-      <sub>Python · Machine learning</sub>
+      <h3><a href="https://github.com/ZhaoXingPeng/DevBrief-Agent">DevBrief-Agent</a></h3>
+      <p>面向研发评审、缺陷分诊和故障复盘的证据驱动 Agent Harness：从会议转写或音频中提取决策，关联代码、ADR 与历史 Issue，经人工审批后生成可追溯的研发任务。</p>
+      <p>
+        <a href="https://github.com/ZhaoXingPeng/DevBrief-Agent/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/DevBrief-Agent/actions/workflows/ci.yml/badge.svg?branch=main" alt="DevBrief-Agent quality" /></a>
+      </p>
+      <sub>Python · Agent Harness · Evidence retrieval · Human approval</sub>
     </td>
   </tr>
 </table>
@@ -59,9 +68,9 @@
 ## Current focus
 
 ```text
-DBJavaGenix    让数据库到代码的链路更可靠、更可观察
-BabelFlux Java 让跨语言沟通更自然、更及时
-AI / CV        把实验结果整理成可复现、可共享的工具
+DBJavaGenix     让数据库到代码的链路更可靠、更可观察
+BabelFlux Java  让跨语言沟通更自然、更及时
+DevBrief-Agent  让研发决策沉淀为可审计、可执行的任务
 ```
 
 ## Tech stack
