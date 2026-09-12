@@ -68,12 +68,12 @@
 ## 近期动态
 
 <!--START_SECTION:activity-->
-1. 💪 创建了 PR [#65](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/65)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-2. 🗣 评论了 [#56](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/56#issuecomment-5628683617)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-3. 🗣 评论了 [#64](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/64#issuecomment-5628678707)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-4. 🗣 评论了 [#57](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/57#issuecomment-5628678700)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-5. 🔒 关闭了议题 [#57](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/57)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-6. 🔒 关闭了议题 [#64](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/64)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+1. 🗣 评论了 [#73](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/73#issuecomment-5643429316)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+2. 🗣 评论了 [#147](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/147#issuecomment-5637837114)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
+3. 🗣 评论了 [#77](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/77#issuecomment-5637836845)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+4. 🗣 评论了 [#145](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/145#issuecomment-5637836527)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
+5. 🎉 合并了 PR [#147](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/147)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
+6. 🔒 关闭了议题 [#146](https://github.com/ZhaoXingPeng/BabelFLUX-java/issues/146)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
 <!--END_SECTION:activity-->
 
 ## 当前关注
