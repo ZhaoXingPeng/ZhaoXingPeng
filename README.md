@@ -48,6 +48,12 @@
       <p>
         <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/releases"><img src="https://img.shields.io/github/v/release/ZhaoXingPeng/BabelFLUX-java?display_name=tag&sort=semver&style=flat-square&label=%E5%8F%91%E5%B8%83%E7%89%88" alt="BabelFlux 最新发布版" /></a>
         <a href="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/BabelFLUX-java/actions/workflows/ci.yml/badge.svg?branch=main&label=%E8%B4%A8%E9%87%8F%E9%97%A8%E7%A6%81" alt="BabelFlux 质量门禁" /></a>
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=111111" alt="Tauri" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       </p>
       <sub>Java 21 · Spring Boot · MyBatis · Vue 3 · Tauri · DashScope</sub>
     </td>
@@ -74,6 +80,12 @@
       <p>面向研发评审、缺陷分诊和故障复盘的证据驱动 Agent Harness：从会议转写或音频中提取决策，关联代码、ADR 与历史 Issue，经人工审批后生成可追溯的研发任务。</p>
       <p>
         <a href="https://github.com/ZhaoXingPeng/DevBrief-Agent/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/DevBrief-Agent/actions/workflows/ci.yml/badge.svg?branch=main" alt="DevBrief-Agent quality" /></a>
+        <img src="https://img.shields.io/badge/Python%203.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.11" />
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
       </p>
       <sub>Python · Agent Harness · 证据检索 · 人工审批</sub>
     </td>
