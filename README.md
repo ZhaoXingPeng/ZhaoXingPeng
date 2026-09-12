@@ -32,6 +32,13 @@
       <p>面向 ESP32-S3 设备端的语音优先日程提醒系统：以日程、定时任务和本地持久化为核心，通过语音、IM、MCP 与硬件适配器接入外部能力，支持可配置运行时与设备端验证。</p>
       <p>
         <a href="https://github.com/ZhaoXingPeng/VoiceLife/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/VoiceLife/actions/workflows/ci.yml/badge.svg?branch=main" alt="VoiceLife CI" /></a>
+        <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20" />
+        <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square" alt="ESP-IDF" />
+        <img src="https://img.shields.io/badge/ESP32--S3-222222?style=flat-square" alt="ESP32-S3" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MCP-1f2937?style=flat-square" alt="MCP" />
       </p>
       <sub>C++20 · ESP-IDF · ESP32-S3 · 语音 · IM · MCP</sub>
     </td>
@@ -51,6 +58,14 @@
       <p>面向 Java 后端开发的智能数据库代码生成工具：基于 MCP 解析 MySQL 等数据库结构与关系，生成 Entity、DAO、Service、Controller 等分层代码，并支持模板扩展、规范校验与依赖管理。</p>
       <p>
         <a href="https://github.com/ZhaoXingPeng/DBJavaGenix/actions/workflows/ci.yml"><img src="https://github.com/ZhaoXingPeng/DBJavaGenix/actions/workflows/ci.yml/badge.svg?branch=main" alt="DBJavaGenix CI" /></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MCP-1f2937?style=flat-square" alt="MCP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <sub>Python · MCP · MySQL · Java 代码生成</sub>
     </td>
@@ -94,9 +109,20 @@ DevBrief-Agent  让研发决策沉淀为可审计、可执行的任务
 
 <p>
   <img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd343" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1f2937?style=flat-square&logo=cplusplus&logoColor=00b8d9" alt="C++" />
   <img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=f89820" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=68a063" alt="Node.js" />
   <img src="https://img.shields.io/badge/Spring-1f2937?style=flat-square&logo=spring&logoColor=6db33f" alt="Spring" />
+  <img src="https://img.shields.io/badge/ESP--IDF-1f2937?style=flat-square&logo=espressif&logoColor=e7352c" alt="ESP-IDF" />
+  <img src="https://img.shields.io/badge/ESP32-1f2937?style=flat-square&logo=espressif&logoColor=e7352c" alt="ESP32" />
+  <img src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479a1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-1f2937?style=flat-square&logo=sqlite&logoColor=87c0d0" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vue-1f2937?style=flat-square&logo=vuedotjs&logoColor=42b883" alt="Vue" />
+  <img src="https://img.shields.io/badge/Tauri-1f2937?style=flat-square&logo=tauri&logoColor=ffc131" alt="Tauri" />
   <img src="https://img.shields.io/badge/MCP-1f2937?style=flat-square&logo=protocols&logoColor=7dd3fc" alt="MCP" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat-square&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" />
 </p>
