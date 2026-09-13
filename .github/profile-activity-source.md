@@ -1,8 +1,8 @@
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/73#issuecomment-5643429316) in [ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-2. 🗣 Commented on [#147](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/147#issuecomment-5637837114) in [ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-3. 🗣 Commented on [#77](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/77#issuecomment-5637836845) in [ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-4. 🗣 Commented on [#145](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/145#issuecomment-5637836527) in [ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-5. 🎉 Merged PR [#147](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/147) in [ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-6. 🔒 Closed issue [#146](https://github.com/ZhaoXingPeng/BabelFLUX-java/issues/146) in [ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
+1. 🎉 Merged PR [#6](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/6) in [ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
+2. 💪 Opened PR [#6](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/6) in [ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
+3. 🎉 Merged PR [#178](https://github.com/ZhaoXingPeng/VoiceLife/pull/178) in [ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+4. 🔒 Closed issue [#177](https://github.com/ZhaoXingPeng/VoiceLife/issues/177) in [ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+5. 🎉 Merged PR [#180](https://github.com/ZhaoXingPeng/VoiceLife/pull/180) in [ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+6. 🔒 Closed issue [#179](https://github.com/ZhaoXingPeng/VoiceLife/issues/179) in [ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
 <!--END_SECTION:activity-->
