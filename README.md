@@ -95,12 +95,12 @@
 ## 近期动态
 
 <!--START_SECTION:activity-->
-1. 🗣 评论了 [#73](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/73#issuecomment-5643429316)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-2. 🗣 评论了 [#147](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/147#issuecomment-5637837114)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-3. 🗣 评论了 [#77](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/77#issuecomment-5637836845)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
-4. 🗣 评论了 [#145](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/145#issuecomment-5637836527)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-5. 🎉 合并了 PR [#147](https://github.com/ZhaoXingPeng/BabelFLUX-java/pull/147)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
-6. 🔒 关闭了议题 [#146](https://github.com/ZhaoXingPeng/BabelFLUX-java/issues/146)，仓库：[ZhaoXingPeng/BabelFLUX-java](https://github.com/ZhaoXingPeng/BabelFLUX-java)
+1. 🎉 合并了 PR [#6](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/6)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
+2. 💪 创建了 PR [#6](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/6)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
+3. 🎉 合并了 PR [#178](https://github.com/ZhaoXingPeng/VoiceLife/pull/178)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+4. 🔒 关闭了议题 [#177](https://github.com/ZhaoXingPeng/VoiceLife/issues/177)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+5. 🎉 合并了 PR [#180](https://github.com/ZhaoXingPeng/VoiceLife/pull/180)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+6. 🔒 关闭了议题 [#179](https://github.com/ZhaoXingPeng/VoiceLife/issues/179)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
 <!--END_SECTION:activity-->
 
 ## 当前关注
