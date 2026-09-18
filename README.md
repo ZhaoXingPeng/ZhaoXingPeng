@@ -95,12 +95,12 @@
 ## 近期动态
 
 <!--START_SECTION:activity-->
-1. 🎉 合并了 PR [#6](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/6)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
-2. 💪 创建了 PR [#6](https://github.com/ZhaoXingPeng/ZhaoXingPeng/pull/6)，仓库：[ZhaoXingPeng/ZhaoXingPeng](https://github.com/ZhaoXingPeng/ZhaoXingPeng)
-3. 🎉 合并了 PR [#178](https://github.com/ZhaoXingPeng/VoiceLife/pull/178)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
-4. 🔒 关闭了议题 [#177](https://github.com/ZhaoXingPeng/VoiceLife/issues/177)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
-5. 🎉 合并了 PR [#180](https://github.com/ZhaoXingPeng/VoiceLife/pull/180)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
-6. 🔒 关闭了议题 [#179](https://github.com/ZhaoXingPeng/VoiceLife/issues/179)，仓库：[ZhaoXingPeng/VoiceLife](https://github.com/ZhaoXingPeng/VoiceLife)
+1. ❗ 创建了议题 [#91](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/91)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+2. ❗ 创建了议题 [#90](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/90)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+3. 🎉 合并了 PR [#89](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/89)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+4. 🔒 关闭了议题 [#88](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/88)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+5. 💪 创建了 PR [#89](https://github.com/ZhaoXingPeng/DevBrief-Agent/pull/89)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
+6. ❗ 创建了议题 [#88](https://github.com/ZhaoXingPeng/DevBrief-Agent/issues/88)，仓库：[ZhaoXingPeng/DevBrief-Agent](https://github.com/ZhaoXingPeng/DevBrief-Agent)
 <!--END_SECTION:activity-->
 
 ## 当前关注
